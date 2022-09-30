@@ -1,2 +1,2 @@
 # Medium
-Códigos usados nos post do medium
+Códigos usados nos posts do medium
